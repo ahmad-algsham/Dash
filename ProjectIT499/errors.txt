@@ -1,0 +1,519 @@
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+'DatetimeIndexResampler' object has no attribute 'index'
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+Execution failed on sql 'SELECT * FROM sentiment WHERE tweet LIKE ? ORDER BY unix DESC LIMIT 200': no such table: sentiment
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
+min() arg is an empty sequence
